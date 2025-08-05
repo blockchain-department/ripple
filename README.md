@@ -7,3 +7,6 @@
  .env
 -  ISSUER_SECRET=...
 - RECEIVER_SECRET=...
+
+
+check_balance.js and check_token_trustline.js are required scripts for project.
